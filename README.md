@@ -21,6 +21,3 @@ Estudante de ADS, Futuro desenvolvedor, Mergulhando no universo da programação
 
 ### Um código de cada vez! 👨‍💻
 
-![Snake animation](https://github.com/Alxcostta/blob/output/github-contribution-grid-snake.svg)
- 
-[1[readme](https://github-readme-stats.verce1.app/api/pin/?username=Alxcostta&repo=Alxcostta&theme=react)](https://github.com/Alxcostta/Alxcostta)
