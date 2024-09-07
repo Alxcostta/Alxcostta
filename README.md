@@ -6,7 +6,7 @@
 
 
 
-![Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alxcostta&theme=dark&show_icons=true)
+![Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Alxcostta&theme=dark&show_icons=true)
 
 ### Tecnologias que estou aprendendo
 
